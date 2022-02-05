@@ -10,6 +10,15 @@
     🌱 I am currently learning <b>Java</b> and also interested in <b>Python</b>.<br>
     🎯 My Goal is to Contribute to as many <b>open source project</b> as possible.<br>
     ✨ I love to create different types of <b>contents</b>.
+    🔭 I’m currently working on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
+    👯 I’m looking to collaborate on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
+    🤝 I’m looking for help with [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
+    👨‍💻 All of my projects are available at [https://github.com/Watthachai/](https://github.com/Watthachai/)
+    📝 I regularly write articles on [https://github.com/Watthachai/](https://github.com/Watthachai/)
+    💬 Ask me about **Python, Java**
+    📫 How to reach me **watthachaitaechalueaun@gmail.com**
+    📄 Know about my experiences [https://github.com/Watthachai/](https://github.com/Watthachai/)
+    ⚡ Fun fact **When I'm coding, I'm Coding...**
 <td >
     <a href="https://app.daily.dev/itswatthachai"><img src="https://api.daily.dev/devcards/af2270eb17304233863d27759e28400a.png?r=ayb" width="300" alt="Watthachai Taechalue's Dev Card"/></a>
   </td>
@@ -32,26 +41,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watthachai" alt="watthachai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aun_watthachai" target="blank"><img src="https://img.shields.io/twitter/follow/itswatthachai?logo=twitter&style=for-the-badge" alt="itswatthachai" /></a> </p>
-
-- 🔭 I’m currently working on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
-
-- 🌱 I’m currently learning **Python, Java, C++, HTML, CSS, JS**
-
-- 👯 I’m looking to collaborate on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
-
-- 🤝 I’m looking for help with [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Watthachai/](https://github.com/Watthachai/)
-
-- 📝 I regularly write articles on [https://github.com/Watthachai/](https://github.com/Watthachai/)
-
-- 💬 Ask me about **Python, Java**
-
-- 📫 How to reach me **watthachaitaechalueaun@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Watthachai/](https://github.com/Watthachai/)
-
-- ⚡ Fun fact **When I'm coding, I'm Coding...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

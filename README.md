@@ -11,7 +11,7 @@
     🎯 My Goal is to Contribute to as many <b>open source project</b> as possible.<br>
     ✨ I love to create different types of <b>contents</b>.
 <td >
-    <a href="https://app.daily.dev/itswatthachai"><img src="https://api.daily.dev/devcards/af2270eb17304233863d27759e28400a.png?r=ayb" width="1000" alt="Watthachai Taechalue's Dev Card"/></a>
+    <a href="https://app.daily.dev/itswatthachai"><img src="https://api.daily.dev/devcards/af2270eb17304233863d27759e28400a.png?r=ayb" width="400" alt="Watthachai Taechalue's Dev Card"/></a>
   </td>
 
 </tr>

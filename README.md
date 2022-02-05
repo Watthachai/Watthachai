@@ -3,8 +3,6 @@
 <table>
 <tr>
   <td valign="center">
-- 🔭 I’m currently working on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
-
 - 🌱 I’m currently learning **Python, Java, C++, HTML, CSS, JS**
 
 - 👯 I’m looking to collaborate on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)

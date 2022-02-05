@@ -3,19 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🌱 I am currently learning **Java** and also interested in **Web Development**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
-    ✨ I love to create different types of **contents**.
-<td >
-    <a href="https://app.daily.dev/itswatthachai"><img src="https://api.daily.dev/devcards/af2270eb17304233863d27759e28400a.png?r=ayb" width="100%" alt="Watthachai Taechalue's Dev Card"/></a>
-  </td>
-
-</tr>
-</table>
-
-# 💫About Me :
-- 🔭 I’m currently working on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
+    - 🔭 I’m currently working on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
 
 - 🌱 I’m currently learning **Python, Java, C++, HTML, CSS, JS**
 
@@ -34,6 +22,15 @@
 - 📄 Know about my experiences [https://github.com/Watthachai/](https://github.com/Watthachai/)
 
 - ⚡ Fun fact **When I'm coding, I'm Coding...**
+<td >
+    <a href="https://app.daily.dev/itswatthachai"><img src="https://api.daily.dev/devcards/af2270eb17304233863d27759e28400a.png?r=ayb" width="100%" alt="Watthachai Taechalue's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
+
+# 💫About Me :
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/VXMzzRSDmw) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itswatthachai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itswatthachai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/watthachai) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/watthachai) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/watthachai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/itswatthachai) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/watthachai) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itswatthachai) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aun_watthachai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aun_watthachai) 

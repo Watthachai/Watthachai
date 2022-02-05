@@ -5,10 +5,10 @@
 # About Me.
 <table>
 <tr>
-  <td valign="center">
+  <td valign="center">    🌱 I am currently learning **Java** and also interested in **Python**.
     🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
     
-    🌱 I am currently learning **Java** and also interested in **Python**.
+
     
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     

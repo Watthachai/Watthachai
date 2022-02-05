@@ -6,11 +6,11 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b>.<br>
+    🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b>.
     
-    🌱 I am currently learning <b>Java</b> and also interested in <b>Python</b>.<br>
+    🌱 I am currently learning <b>Java</b> and also interested in <b>Python</b>.
     
-    🎯 My Goal is to Contribute to as many <b>open source project</b> as possible.<br>
+    🎯 My Goal is to Contribute to as many <b>open source project</b> as possible.
     
     ✨ I love to create different types of <b>contents</b>.
 <td >

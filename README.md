@@ -6,13 +6,13 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b>.
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
     
-    🌱 I am currently learning <b>Java</b> and also interested in <b>Python</b>.
+    🌱 I am currently learning **Java** and also interested in **Python**.
     
-    🎯 My Goal is to Contribute to as many <b>open source project</b> as possible.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
     
-    ✨ I love to create different types of <b>contents</b>.
+    ✨ I love to create different types of **contents**.
 <td >
     <a href="https://app.daily.dev/itswatthachai"><img src="https://api.daily.dev/devcards/af2270eb17304233863d27759e28400a.png?r=ayb" width="300" alt="Watthachai Taechalue's Dev Card"/></a>
   </td>

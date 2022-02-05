@@ -23,3 +23,24 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=watthachai&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="watthachai" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=watthachai&theme=highcontrast&hide_border=true" alt="watthachai" />
 </p>
+
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: watthachai/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

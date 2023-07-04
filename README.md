@@ -22,9 +22,9 @@
 - 📄 Know about my experiences [GitHub](https://github.com/Watthachai/)
 
 - ⚡ Fun fact **When I'm coding, I'm Coding...**
-- 
+  <p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=watthachai&theme=highcontrast&hide_border=true" alt="watthachai" />
-
+</p>
 <td >
     <a href="https://app.daily.dev/itswatthachai"><img src="https://api.daily.dev/devcards/af2270eb17304233863d27759e28400a.png?r=ayb" width="400" alt="Watthachai Taechalue's Dev Card"/></a>
   </td>

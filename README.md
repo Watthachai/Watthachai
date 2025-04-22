@@ -1,25 +1,39 @@
-# Hi, it's me Watthachai <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# Hello, I'm Watthachai 👋
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> About Me :
-<table>
-<tr>
-  <td valign="center">
-    
-- 🌱 I’m currently learning **Python, Java, C++, HTML, CSS, JS**
+## Full Stack Developer
 
-- 👯 I’m looking to collaborate on [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
+I build intuitive web applications that solve real-world problems through clean code and user-centered design.
 
-- 🤝 I’m looking for help with [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
+- 🔭 I'm currently working on medical inventory management systems using React and TypeScript
+- 🌱 I'm expanding my skills in **TypeScript, Next.js, and React Native**
+- 💼 My expertise includes: React.js, TypeScript, UI/UX Design, Next.js, and Database Management
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Watthachai/)
+## Featured Projects
 
-- 📝 I regularly write articles on [GitHub](https://github.com/Watthachai/)
+### [Automatic Medical Labeling System](https://github.com/Watthachai/automatic-labeling)
+Developed a hospital inventory management system with automated labeling capabilities to streamline medical supply tracking and improve workflow efficiency.
 
-- 💬 Ask me about **Python, Java**
+### [KMITL Exam Invigilator](https://github.com/Watthachai/kmitl-exam-invigilator)
+Created an examination management system to streamline the process of scheduling invigilators, managing exam rooms, and coordinating resources for KMITL university.
 
-- 📫 How to reach me **watthachaitaechalueaun@gmail.com**
+### [Smart Drop](https://github.com/Watthachai/Smart-DropV2)
+An intelligent solution for monitoring and managing fluid delivery with real-time data visualization and automated notifications.
+* Looking for collaborators and contributors - reach out if interested!
 
-- 📄 Know about my experiences [GitHub](https://github.com/Watthachai/)
+## Skills
+
+**Frontend:** React.js, TypeScript, HTML5, CSS3, JavaScript  
+**Backend:** Node.js, Next.js, Express  
+**Database:** MongoDB, MySQL, Firebase  
+**Tools:** Git, VS Code, Figma, Docker  
+
+## Connect With Me
+
+- 📫 Email: watthachaitaechalueaun@gmail.com and wattchaichai@gmail.com
+- 🔗 LinkedIn: [Watthachai Taechalueaun](https://www.linkedin.com/in/itswatthachai/)
+- 💼 Resume: [View My Resume](https://www.canva.com/design/DAGXYEHixbI/2YfVfxtwHToJKFFwd8RwpA/edit?utm_content=DAGXYEHixbI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+I'm actively seeking new opportunities in full-stack development where I can contribute to meaningful projects. Let's connect!
 
 - ⚡ Fun fact **When I'm coding, I'm Coding...**
 <p align="center">
